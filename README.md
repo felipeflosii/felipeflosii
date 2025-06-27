@@ -1,5 +1,5 @@
  # Olá, Eu sou Felipe Flosi 👋
-Sou um jovem, de 17 anos, brasileiro.
+Sou um jovem, de 18 anos, brasileiro.
  
 Seja bem-vindo ao meu perfil! Sou estudante de Análise e Desenvolvimento de Sistemas e estou em busca da minha primeira experiência profissional. Adoro aprender novas tecnologias e estou sempre em busca de desafios.
  
